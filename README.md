@@ -49,7 +49,7 @@ THIRD PARTY LIBRARIES USED: (Include version numbers of all libraries and URLs t
 - JavaFX 19 (2023) (i.e Scenebuilder)
 
 
-VIDEO URL
+[VIDEO URL](https://mediaspace.bucknell.edu/media/King%27s+Queens+%28CSCI+205%29+Final+Project+Video/1_dehgskeg)
 
 ## How to run it
 In order to build and run this project. A user needs to clean clone the git repository and run
